@@ -1,5 +1,5 @@
 # 💫About Me :
-I’m currently working on something cool 😌
+I’m currently working on projects 😌
 I’m presently learning Laravel.
 Ask me about anything related to HTML, CSS, Javascript, Python, or React.
 How to reach me: thilinipriyangika98@gmail.com
