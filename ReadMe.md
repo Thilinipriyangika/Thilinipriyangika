@@ -1,9 +1,9 @@
 # 💫About Me :
 I’m currently working on projects 😌
-I’m presently learning React, ML, AI
-Ask me about anything related to HTML, CSS, or Javascript.
-📧 Email: thilinipriyangika98@gmail.com
-🖥️ GitHub: Thilinipriyangika
+🌱 I’m currently learning React, ML, AI
+💬 Ask me about  anything related to HTML, CSS, or Javascript.
+📫 How to reach me: thilinipriyangika98@gmail.com
+👨‍💻 All of my projects are available at: https://github.com/Thilinipriyangika 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thilini.priyangika.927) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thili334) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilini-priyangika) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21354008) 
