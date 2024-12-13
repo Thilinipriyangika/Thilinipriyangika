@@ -1,7 +1,7 @@
 # 💫About Me :
 I’m currently working on projects 😌
-🌱 I’m currently learning React, ML, AI
-💬 Ask me about  anything related to HTML, CSS, or Javascript.
+I’m currently learning React, ML, AI
+Ask me about  anything related to HTML, CSS, or Javascript.
 📫 How to reach me: thilinipriyangika98@gmail.com
 👨‍💻 All of my projects are available at: https://github.com/Thilinipriyangika 
 
